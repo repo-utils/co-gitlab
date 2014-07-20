@@ -8,7 +8,11 @@
   },
   "author": "dead_horse <dead_horse@qq.com>",
   "license": "MIT",
-  "repo": "repo-utils/co-gitlab",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/repo-utils/co-gitlab.git",
+    "web": "https://github.com/repo-utils/co-gitlab"
+  },
   "devDependencies": {
     "autod": "^0.2.2",
     "co": "^3.0.6",
