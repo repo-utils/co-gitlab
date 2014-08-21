@@ -46,6 +46,7 @@ var methods = {
   projects: [
     'getByPath'
   ],
+  groupMembers: [],
 };
 
 
