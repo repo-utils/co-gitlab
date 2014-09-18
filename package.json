@@ -1,6 +1,6 @@
 {
   "name": "co-gitlab",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "co wraper for node-gitlab",
   "main": "index.js",
   "scripts": {
